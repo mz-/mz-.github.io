@@ -55,7 +55,10 @@
 			text-decoration: none;
 		}
 
-		.dark h1,
+		.dark h1
+		{
+			color: #BF4033;
+		}
 		.dark h2,
 		.dark h3,
 		.dark h4,
@@ -823,7 +826,7 @@
 		background-repeat:			repeat,								no-repeat;
 		padding: 14em 0 14em 0;
 		text-align: center;
-		color: #fff;
+		color: #BF4033;
 	}
 	
 		#header header
